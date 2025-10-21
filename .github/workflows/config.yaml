@@ -1,0 +1,16 @@
+brands:
+  - name: Samsung
+    keywords: ["lodówka", "pralka", "zmywarka", "piekarnik", "telewizor"]
+    retailers:
+      - "mediaexpert"
+      - "eurocom"
+  - name: LG
+    keywords: ["lodówka", "pralka", "telewizor", "piekarnik"]
+    retailers:
+      - "mediaexpert"
+      - "eurocom"
+  - name: Bosch
+    keywords: ["lodówka", "pralka", "piekarnik"]
+    retailers:
+      - "mediaexpert"
+      - "eurocom"
